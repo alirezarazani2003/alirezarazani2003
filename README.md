@@ -102,7 +102,7 @@ me.say_hi()
 📧 Email: alirezarazani3185@gmail.com  
 💼 LinkedIn: [linkedin.com/in/alirezarazani2003](https://www.linkedin.com/in/alirezarazani2003)  
 💬 Telegram PV: [@alirezarazani2003](https://t.me/alirezarazani2003)  
-💬 Telegram Channel: [@alirezarazani2003](https://t.me/boz_community)  
+💬 Telegram Channel: [@boz_community](https://t.me/boz_community)  
 
 ---
 
