@@ -27,7 +27,7 @@ class AlirezaRazani:
         self.goal = "Become a professional data scientist"
 
     def say_hi(self):
-        print("Glad to see you here 👇")
+        print("Glad to see you here 😁👇")
 
 me = AlirezaRazani()
 me.say_hi()
