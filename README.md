@@ -20,11 +20,11 @@
 class AlirezaRazani:
     def __init__(self):
         self.name = "Alireza Razani"
-        self.age = 22
+        self.age = 23
         self.field = "Data Science & Backend Development"
-        self.languages = ["Python", "SQL", "JavaScript"]
+        self.languages = ["Python", "Django"]
         self.focus = "Problem solving, data analysis, scalable backend services"
-        self.goal = "Become a professional data scientist"
+        self.goal = "Become a professional data scientist and backend developer"
 
     def say_hi(self):
         print("Glad to see you here 😁👇")
@@ -53,8 +53,7 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 
 #### 🛠️ Tools:
 
@@ -102,7 +101,6 @@ me.say_hi()
 📧 Email: alirezarazani3185@gmail.com  
 💼 LinkedIn: [linkedin.com/in/alirezarazani2003](https://www.linkedin.com/in/alirezarazani2003)  
 💬 Telegram PV: [@alirezarazani2003](https://t.me/alirezarazani2003)  
-💬 Telegram Channel: [@boz_community](https://t.me/boz_community)  
 
 ---
 
