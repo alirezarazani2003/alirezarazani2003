@@ -20,7 +20,7 @@
 class AlirezaRazani:
     def __init__(self):
         self.name = "Alireza Razani"
-        self.age = 23
+        self.age = 24
         self.field = "Data Science & Backend Development"
         self.languages = ["Python", "Django"]
         self.focus = "Problem solving, data analysis, scalable backend services"
